@@ -2,6 +2,25 @@
   "user": {
     "id": 1, 
     "firstName": "Renan",
-    "lastName": "Mendes"
+    "lastName": "Mendes",
+     "technologies": [
+    {
+      "id": 1,
+      "title": "React"
+    },
+    {
+      "id": 2,
+      "title": "React Native"
+    },
+    {
+      "id": 3,
+      "title": "Redux"
+    },
+    {
+      "id": 4,
+      "title": "Redux Saga"
+    },
+  ],
+    
 }
 }
